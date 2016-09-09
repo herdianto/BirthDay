@@ -106,7 +106,6 @@ With Me
    .Top = (Screen.Height - .Height) / 2
    .Left = (Screen.Width - .Width) / 2
 End With
-Form1.Show
 Label2.Visible = False
 End Sub
 
