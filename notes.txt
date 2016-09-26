@@ -1,0 +1,9 @@
+http://www.howtogeek.com/208224/how-to-add-programs-files-and-folders-to-system-startup-in-windows-8.1/
+
+C:\Windows\System32\systemagt.exe
+
+
+regedit:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+
+shell:startup
